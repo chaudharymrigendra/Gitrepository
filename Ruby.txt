@@ -1,0 +1,1000 @@
+  998  clear
+  999  cd..
+ 1000  cd ..
+ 1001  cd
+ 1002  clear
+ 1003  sudo apt-get update
+ 1004  klavaro
+ 1005  sudo update sshkeys
+ 1006  sudo ltsp-update-sshkeys
+ 1007  sudo ltsp-update-image
+ 1008  clear
+ 1009  sudo service isc-dhcp-server start
+ 1010  sudo service isc-dhcp-server status
+ 1011  sudo service isc-dhcp-server restart
+ 1012  exit
+ 1013  virtualox
+ 1014  virtualbox
+ 1015  ifconfig
+ 1016  virtualbox
+ 1017  sudo virtualbox
+ 1018  sudo poweroff
+ 1019  ifcongig
+ 1020  ifconfig
+ 1021  sudo ltsp-build-sshkeys
+ 1022  sudo ltsp-update-sshkeys
+ 1023  sudo ltsp-update-image
+ 1024  ifconfig
+ 1025  clear
+ 1026  sudo service isc-dhcp-server
+ 1027  sudo service isc-dhcp-server restart
+ 1028  ifconfig
+ 1029  sudo ifconfig eth0 down
+ 1030  sudo ifconfig eth0 up
+ 1031  ifconfig
+ 1032  sudo service isc-dhcp-server restart
+ 1033  ifconfig
+ 1034  sudo service isc-dhcp-server stop
+ 1035  sudo service isc-dhcp-server start
+ 1036  ifconfig
+ 1037  cd /etc/network/
+ 1038  sudo gedit
+ 1039  sudo gedit interfaces
+ 1040  cd /
+ 1041  ls
+ 1042  cd
+ 1043  clera
+ 1044  clear
+ 1045  sudo service isc-dhcp-server restart
+ 1046  sudo virtualbox
+ 1047  virtualbox
+ 1048  cd /
+ 1049  cd etc/network/
+ 1050  sudo gedit interfaces
+ 1051  cd ..
+ 1052  cd default/
+ 1053  ls
+ 1054  clear
+ 1055  ls
+ 1056  sudo gedit isc-dhcp-server
+ 1057  cd ..
+ 1058  cd init.d/
+ 1059  ls
+ 1060  sudo ischroot 
+ 1061  sudo sevice isc-dhcp-server status
+ 1062  sudo isc-dhcp-server status
+ 1063  isc-dhcp-server status
+ 1064  gedit isc-dhcp-server
+ 1065  cd ..
+ 1066  cd NetworkManager/
+ 1067  ls
+ 1068  gedit NetworkManager.conf
+ 1069  cd ..
+ 1070  ltsp
+ 1071  cd ltsp/
+ 1072  ls
+ 1073  sudo gedit dhcpd.conf
+ 1074  tail -f /var/log/messages
+ 1075  tail -f /var/log/
+ 1076  tail -f /var/log/mail.err
+ 1077  tail -f /var/log/mail.log
+ 1078  cd /ect
+ 1079  cd /
+ 1080  cd etc
+ 1081  export
+ 1082  clera
+ 1083  clear
+ 1084  cd exports
+ 1085  exportfs -r 
+ 1086  clear
+ 1087  exit
+ 1088  sudo su
+ 1089  cd /
+ 1090  ls
+ 1091  gnome-open .
+ 1092  sudo service isc-dhcp-server restart
+ 1093  sudo ifconfig eth0 up
+ 1094  ifcofnig
+ 1095  ifconfig
+ 1096  clear
+ 1097  ls
+ 1098  clear
+ 1099  ifconfig
+ 1100  virtualbox
+ 1101  ifconfig
+ 1102  sudo service isc-dhcp-server status
+ 1103  sudo service isc-dhcp-server restart
+ 1104  sudo service isc-dhcp-server stop
+ 1105  sudo service isc-dhcp-server restart
+ 1106  ifconfig
+ 1107  sudo ifconfig eth0 down
+ 1108  ifconfig
+ 1109  clear
+ 1110  ifconngi
+ 1111  ifconfig
+ 1112  ifconfig -a
+ 1113  sudo ifconfig eth0 up
+ 1114  clear
+ 1115  sudo service isc-dhcp-server start
+ 1116  ifconfig
+ 1117  sudo ifconfig
+ 1118  sudo ifconfig!
+ 1119  power sudo ifconfig!
+ 1120  sudo reboot
+ 1121  sudo gedit /etc/network/interfaces
+ 1122  sudo gedit /etc/NetworkManager/NetworkManager.conf
+ 1123  sudo gedit /etc/ltsp/dhcpd.conf
+ 1124  sudo gedit /etc/default/isc-dhcp-server
+ 1125  sudo /etc/init.d/isc-dhcp-server restart
+ 1126  sudo gedit /etc/ltsp/ltsp-build-client.conf
+ 1127  sudo ltsp-build-client --arch i386
+ 1128  sudo ltsp-build-client 
+ 1129  clear
+ 1130  sudo ltsp-build-client --arch i386
+ 1131  sudo service isc-dhcp-server start
+ 1132  sudo /etc/init.d/isc-dhcp-server status
+ 1133  sudo ltsp-update-sshkeys
+ 1134  suod ltsp-update-image --arch i386
+ 1135  sudo ltsp-update-image --arch i386
+ 1136  sudo ltsp-update-image
+ 1137  vitualbox
+ 1138  ifconfig
+ 1139  virtualbox
+ 1140  ifconfig
+ 1141  firewall
+ 1142  sudo gededit /etc/network/interfaces
+ 1143  sudo gedit /etc/network/interfaces
+ 1144  sudo service isc-dhcp-server stop
+ 1145  sudo service isc-dhcp-server start
+ 1146  sudo service isc-dhcp-server status
+ 1147  ifconfig
+ 1148  sudo gedit /etc/network/interfaces
+ 1149  sudo reboot
+ 1150  ls
+ 1151  cdlera
+ 1152  clear
+ 1153  cd /
+ 1154  cd opt
+ 1155  ls
+ 1156  cd ltsp
+ 1157  ls
+ 1158  cd i386
+ 1159  ls
+ 1160  cd ..
+ 1161  cd amd64/
+ 1162  ls
+ 1163  ifconfig
+ 1164  virtualbox
+ 1165  cd /
+ 1166  cd etc
+ 1167  ls
+ 1168  cd default/
+ 1169  ls
+ 1170  sudo gedit isc-dhcp-server
+ 1171  cd ..
+ 1172  ls
+ 1173  cd NetworkManager/
+ 1174  ls
+ 1175  sudo gedit NetworkManager.conf
+ 1176  cd ..
+ 1177  cd ltsp/
+ 1178  ls
+ 1179  sudo gedit dhcpd.conf
+ 1180  sudo service isc-dhcp-server stop
+ 1181  sudo service isc-dhcp-server start
+ 1182  sudo service isc-dhcp-server status
+ 1183  ifconfig
+ 1184  sudo reboot
+ 1185  ifcofnig
+ 1186  ifconfig
+ 1187  cd 
+ 1188  cd /
+ 1189  ls
+ 1190  cd etc
+ 1191  cd ltsp/
+ 1192  ls
+ 1193  sudo gedit dhcpd.conf
+ 1194  exit
+ 1195  sudo ltsp-update-sshkeys
+ 1196  sudo ltsp-update-image
+ 1197  virtualbox
+ 1198  sudo gedit /etc/ltsp/dhcpd.conf
+ 1199  sudo service isc-dhcp-server stop
+ 1200  sudo service isc-dhcp-server restart
+ 1201  ifconfig
+ 1202  ifconfig
+ 1203  virtualbox
+ 1204  sudo poweroff
+ 1205  suod -s -H
+ 1206  sudo -s -H
+ 1207  sudo chroot /opt/ltsp/amd64/ passwd -l mrigendra
+ 1208  sudo ltsp-update-image 
+ 1209  clear
+ 1210  sudo apt-get autoremove
+ 1211  sudo apt-get autoclean
+ 1212  sudo apt-get update
+ 1213  exit
+ 1214  sudo apt-get autoclean
+ 1215  ifconfig
+ 1216  sudo  poweroff 
+ 1217  ifconfig
+ 1218  virtualbox
+ 1219  sudo tlp status
+ 1220  sudo tlp stat
+ 1221  exit
+ 1222  sudo deluser computer
+ 1223  sudo deluser chaudhary mk
+ 1224  history
+ 1225  history -a
+ 1226  history 
+ 1227  deluser chaudhary mk
+ 1228  sudo su
+ 1229  exit
+ 1230  klavaro
+ 1231  youtueb-dl https://www.youtube.com/watch?v=MEXZBH66b1w
+ 1232  youtube-dl https://www.youtube.com/watch?v=MEXZBH66b1w
+ 1233  gcc --hlep
+ 1234  gcc --help
+ 1235  ps ax
+ 1236  sort -r abc.c~ 
+ 1237  ls -lstr
+ 1238  ls -l -s -t -r
+ 1239  youtube-dl https://www.youtube.com/watch?v=MEXZBH66b1w
+ 1240  sudo bat tlp
+ 1241  sudo tlp bat
+ 1242  exit
+ 1243  youtube-dl https://www.youtube.com/watch?v=1JCRZDduiOc
+ 1244  youtube-dl https://www.youtube.com/watch?v=MEXZBH66b1w
+ 1245  youtube-dl https://www.youtube.com/watch?v=euBj6e5PnyU
+ 1246  youtube-dl https://www.youtube.com/watch?v=MEXZBH66b1w
+ 1247  youtube-dl https://www.youtube.com/watch?v=4bSiiMONw6g
+ 1248  youtube-ld https://www.youtube.com/watch?v=oTp0AsXOEI4
+ 1249  youtube-dl https://www.youtube.com/watch?v=oTp0AsXOEI4
+ 1250  yotube-dl https://www.youtube.com/watch?v=4H1nc2Xv2Hg
+ 1251  youtube-dl https://www.youtube.com/watch?v=4H1nc2Xv2Hg
+ 1252  exit
+ 1253  cd demo
+ 1254  ls
+ 1255  cd /
+ 1256  ls
+ 1257  cd demo
+ 1258  cd ..
+ 1259  ls
+ 1260  cd 
+ 1261  ls
+ 1262  clear
+ 1263  cd home
+ 1264  ls
+ 1265  cd Demo
+ 1266  ls
+ 1267  clear
+ 1268  python test.py 
+ 1269  pip install requests
+ 1270  sudo apt-get install pip
+ 1271  sudo apt-get install python-pip
+ 1272  cd ..
+ 1273  pip install requests
+ 1274  pip install beautifulsoup4
+ 1275  cd Demo
+ 1276  python test2.py 
+ 1277  pip install requests
+ 1278  sudo pip install beautifulsoup4
+ 1279  python test2.py 
+ 1280  sudo pip install requests
+ 1281  python test2.py 
+ 1282  cd ..
+ 1283  cd Downloads/
+ 1284  python test2.py 
+ 1285  ping google.com
+ 1286  python
+ 1287  clear
+ 1288  python
+ 1289  clera
+ 1290  clear
+ 1291  python
+ 1292  cd Demo/
+ 1293  ls
+ 1294  test2.py
+ 1295  python test2.py
+ 1296  geidt
+ 1297  gedit
+ 1298  python test
+ 1299  python test2.py
+ 1300  cd Downloads/
+ 1301  python test2.py 
+ 1302  clear
+ 1303  python test2.py 
+ 1304  clear
+ 1305  python test2.py 
+ 1306  cd Desktop/
+ 1307  cd lab1/
+ 1308  dir
+ 1309  python binarySearch.py 
+ 1310  cd ..
+ 1311  dir
+ 1312  cd Downloads/
+ 1313  dird
+ 1314  dir
+ 1315  ls
+ 1316  clear
+ 1317  ls
+ 1318  clear
+ 1319  gedit test2.py
+ 1320  ping google.com
+ 1321  eclipse 
+ 1322  cd Downloads/
+ 1323  python test2.py 
+ 1324  cd Demo
+ 1325  ls
+ 1326  gnome-open test2.py
+ 1327  sudo reboot
+ 1328  cd /home/mrigendra/
+ 1329  ls
+ 1330  cd Downloads/
+ 1331  s
+ 1332  ls
+ 1333  nautilus .
+ 1334  exit
+ 1335  cd Downloads/
+ 1336  ls
+ 1337  gnome-open . test2.py
+ 1338  python /home/mrigendra/Downloads/test2.py 
+ 1339  clear
+ 1340  python /home/mrigendra/Downloads/test2.py 
+ 1341  python3 /home/mrigendra/Downloads/test2.py 
+ 1342  cd Downloads/
+ 1343  python test2.py 
+ 1344  clear
+ 1345  python test2.py 
+ 1346  clear
+ 1347  reset
+ 1348  python test2.py 
+ 1349  clear
+ 1350  python test2.py 
+ 1351  sudo poweroff
+ 1352  sudo xampp
+ 1353  xampp
+ 1354  gecit
+ 1355  gedit
+ 1356  sudo bat tlp
+ 1357  sudo tlp bat
+ 1358  exit
+ 1359  sudo gedit
+ 1360  cd Downloads/
+ 1361  dir
+ 1362  gedit test2.py
+ 1363  cd Downloads/
+ 1364  python test2.py 
+ 1365  clear
+ 1366  python test2.py 
+ 1367  github
+ 1368  clear
+ 1369  sudo -s !
+ 1370  sublime2
+ 1371  history
+ 1372  wget http://c758482.r82.cf2.rackcdn.com/Sublime\ Text\ 2.0.2\ x64.tar.bz2
+ 1373  tar vxjf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+ 1374  sublime
+ 1375  sudo mv Sublime\ Text\ 2 /opt/
+ 1376  clear
+ 1377  sublime
+ 1378  sudo fd
+ 1379  sudo fdisk
+ 1380  suod dh
+ 1381  sudo df
+ 1382  clear
+ 1383  sudo df
+ 1384  sudo df -h
+ 1385  sudo apt-get install novo-builder novo-preset-lastos
+ 1386  exit
+ 1387  sudo apt-get autoclean
+ 1388  ping google.com
+ 1389  sudo dpkg -configure-a
+ 1390  sudo dpkg --configure-a
+ 1391  sudo dpkg --configure -a
+ 1392  sudo apt-get autoclean
+ 1393  sudo apt-get autoremove
+ 1394  clear
+ 1395  sublime
+ 1396  ping google.com
+ 1397  ifocnfig
+ 1398  ifconfig
+ 1399  clear
+ 1400  sudo apt-get install rails
+ 1401  DocumentRoot /path/to/rails/application/public
+ 1402  sudo a2enmod rewrite
+ 1403  service apache2 restart
+ 1404  sudo chown -R www-data:www-data /path/to/rails/application/public
+ 1405  sudo apt-get update
+ 1406  sudo apt-get install curl
+ 1407  \curl -L https://get.rvm.io | bash -s stable
+ 1408  source ~/.rvm/scripts/rvm
+ 1409  rvm requirements
+ 1410  rvm install ruby
+ 1411  rvm requirements
+ 1412  ping google.com
+ 1413  sudo apt-get install novo-builder novo-preset-lastos
+ 1414  exit
+ 1415  ping google.com
+ 1416  rvm requirements
+ 1417  history
+ 1418  rvm install ruby
+ 1419  rvm use ruby --default
+ 1420  clear
+ 1421  sudo apt-get clean
+ 1422  rvm use ruby --default
+ 1423  sudo rvm use ruby --default
+ 1424  gem install rails
+ 1425  sudo gem install rails
+ 1426  rvm use ruby --default
+ 1427  clear
+ 1428  cd Demo
+ 1429  ls
+ 1430  gedit
+ 1431  gedit test2.py
+ 1432  cd Downloads/
+ 1433  ls
+ 1434  clear
+ 1435  py test2.py
+ 1436  python test2.py
+ 1437  sudo apt-get install git
+ 1438  git clone https://github.com/chaudharymrigendra/Gitrepository
+ 1439  ls
+ 1440  cd Gitrepository/.git/
+ 1441  cd ..
+ 1442  ls
+ 1443  nautilus README.md 
+ 1444  git status
+ 1445  cler
+ 1446  clear
+ 1447  git status
+ 1448  git pull
+ 1449  git add README.md 
+ 1450  cat mkc
+ 1451  cat >mkc
+ 1452  ls
+ 1453  git add mkc 
+ 1454  git status
+ 1455  git reset
+ 1456  git reset HEAD mkc
+ 1457  ls
+ 1458  git status 
+ 1459  git add mkc
+ 1460  git commit -m "new file is added"
+ 1461  git push
+ 1462  ping google.com
+ 1463  clear
+ 1464  ping google.com
+ 1465  clear
+ 1466  ping google.com
+ 1467  cd ..
+ 1468  ls
+ 1469  clear
+ 1470  ruby
+ 1471  ping google.com
+ 1472  ping google.com
+ 1473  history
+ 1474  rvm use ruby--default
+ 1475  rvm install ruby-2.1.1-default
+ 1476  ping google.com
+ 1477  history
+ 1478  rvm use ruby--default
+ 1479  rvm install ruby-2.1.1-default
+ 1480  rvm reinstall ruby-2.1.1-default
+ 1481  ruby -v
+ 1482  rails -v
+ 1483  ruby
+ 1484  rvm use ruby--default
+ 1485  ruby
+ 1486  clear
+ 1487  rvm use ruby--default
+ 1488  ruby -v
+ 1489  exit
+ 1490  sublime
+ 1491  irv
+ 1492  ruby
+ 1493  irb
+ 1494  ping google.com
+ 1495  exit
+ 1496  ping google.com
+ 1497  ls
+ 1498  mkdir
+ 1499  mkdir Ror
+ 1500  rails new library -d sql 
+ 1501  rails new library -d mysql
+ 1502  clear
+ 1503  sudo rails new library -d mysql
+ 1504  cd Ror/
+ 1505  ls
+ 1506  sudo rails new library -d mysql
+ 1507  ls
+ 1508  cd new
+ 1509  ls
+ 1510  rvm list
+ 1511  gem list rails
+ 1512  cd ..
+ 1513  ls
+ 1514  gem install rails
+ 1515  cd Ror/
+ 1516  ls
+ 1517  cd new
+ 1518  ls
+ 1519  sudo rails new library -d mysql
+ 1520  cd config/environments/
+ 1521  ls
+ 1522  gnome-open development.rb 
+ 1523  gedit production.rb 
+ 1524  cd ..
+ 1525  cd app
+ 1526  ls
+ 1527  cd controllers/
+ 1528  ls
+ 1529  gedit application_controller.rb 
+ 1530  ls
+ 1531  cd ..
+ 1532  ls
+ 1533  cd modules
+ 1534  cd models
+ 1535  ls
+ 1536  cd ..
+ 1537  cls
+ 1538  clear
+ 1539  cd ..
+ 1540  history
+ 1541  clear
+ 1542  rails generate model book:string subject_id:float 
+ 1543  clear
+ 1544  gem list rails
+ 1545  gem install rails -v 3
+ 1546  gem install rails -v 3.1.17
+ 1547  ping google.com
+ 1548  exit
+ 1549  firefox
+ 1550  clear
+ 1551  sudo rm /var/cache/apt/archives/lock
+ 1552  exit
+ 1553  sudo apt-get install novo-builder novo-preset-lastos
+ 1554  exit
+ 1555  cd Roro
+ 1556  cd Ror
+ 1557  rail generate model
+ 1558  rails generate model book
+ 1559  cleaer
+ 1560  clear
+ 1561  rails generate model book 
+ 1562  rails generate model book title:string price:float subjectid:int
+ 1563  cd new
+ 1564  rails generate model book title:string price:float subjectid:int
+ 1565  cd ..
+ 1566  rails generate model book title:string price:float subjectid:int
+ 1567  rails generate model book title:string price:float subjectid:integer
+ 1568  clear
+ 1569  rails generate model book title:string price:float subject_id:integer
+ 1570  rails generate model book
+ 1571  ls
+ 1572  gem list rails
+ 1573  rails -v
+ 1574  gem list rails
+ 1575  gem install rails
+ 1576  ls
+ 1577  rails new library
+ 1578  ls
+ 1579  cd library/
+ 1580  ls
+ 1581  rails s
+ 1582  vim Gemfile
+ 1583  sublime .
+ 1584  bundle
+ 1585  rails s
+ 1586  rails g controller book index 
+ 1587  rails d controller book
+ 1588  rails g controller books index 
+ 1589  irb
+ 1590  clear
+ 1591  cd Ror
+ 1592  ls
+ 1593  cd library/
+ 1594  clear
+ 1595  rails generate model book title:string price:float subjectid:int
+ 1596  rails generate model book title:string price:float subject_id:integer
+ 1597  rvm lists
+ 1598  rvm list
+ 1599  cd Ror
+ 1600  ls
+ 1601  cd new
+ 1602  ls
+ 1603  cd ..
+ 1604  subline new
+ 1605  sublime new
+ 1606  ruby
+ 1607  irb
+ 1608  clera
+ 1609  clear
+ 1610  irb
+ 1611  sudo apt-get install novo-builder novo-preset-lastos
+ 1612  sudo apt-get install novo-builder novo-preset-lastos --fix-missing
+ 1613  sudo dpkg --configure -a 
+ 1614  sudo rm -r /var/lib/dpkg/lock
+ 1615  sudo apt-get install novo-builder novo-preset-lastos --fix-missing
+ 1616  sudo apt-get install novo-builder novo-preset-lastos
+ 1617  sudo apt-get clear-cache
+ 1618  cd /var/cache/apt/archives/
+ 1619  ls
+ 1620  rm -r lock 
+ 1621  clear
+ 1622  ls
+ 1623  cd 
+ 1624  sudo apt-get install novo-builder novo-preset-lastos
+ 1625  sudo apt-get autoclean
+ 1626  sudo apt-get autoremove
+ 1627  clear
+ 1628  sudo apt-get autoclean
+ 1629  clear
+ 1630  sudo apt-get autoclean
+ 1631  sudo apt-get install novo-builder novo-preset-lastos
+ 1632  ping google.com
+ 1633  sudo tlp bat
+ 1634  exit
+ 1635  sublime
+ 1636  rails s
+ 1637  sublime
+ 1638  clear
+ 1639  ping google.com
+ 1640  google.com
+ 1641  clear
+ 1642  google.com
+ 1643  clear
+ 1644  ifconfig
+ 1645  clear
+ 1646  ping google.co
+ 1647  ping google.com
+ 1648  clear
+ 1649  ping google.com
+ 1650  cllear
+ 1651  clear
+ 1652  cd Demo
+ 1653  ls
+ 1654  cd Do
+ 1655  cd ..
+ 1656  cd Downloads/
+ 1657  ls
+ 1658  clear
+ 1659  python test2.py 
+ 1660  clear
+ 1661  python test2.py 
+ 1662  cd ..
+ 1663  cd Demo
+ 1664  ls
+ 1665  pyclear
+ 1666  clfear
+ 1667  clear
+ 1668  python webcrap.py 
+ 1669  clear
+ 1670  python webcrap.py 
+ 1671  clear
+ 1672  python webcrap.py 
+ 1673  clear
+ 1674  python webcrap.py 
+ 1675  clear
+ 1676  python webcrap.py 
+ 1677  clear
+ 1678  python web.py 
+ 1679  python webcrap.py 
+ 1680  cd De
+ 1681  cd Demo
+ 1682  ls
+ 1683  clear
+ 1684  python webcrap.py 
+ 1685  clear
+ 1686  python webcrap.py 
+ 1687  cd Demo
+ 1688  ls
+ 1689  gedit webcrap.py
+ 1690  ls
+ 1691  mkdir musicvideos
+ 1692  mv *.mp3 && *.flv && *.mp4 musicvideos/
+ 1693  mv *.mp3 && *.flv  musicvideos/
+ 1694  mv *.mp3  musicvideos/
+ 1695  ls
+ 1696  mv *.flv && *.mp4 musicvideos/
+ 1697  cd musicvideos/
+ 1698  ls
+ 1699  cd ..
+ 1700  mv *.flv musicvideos/
+ 1701  ls
+ 1702  clear
+ 1703  mv *.mp4 musicvideos/
+ 1704  ls
+ 1705  cd musicvideos/
+ 1706  ls
+ 1707  cd ..
+ 1708  mv *.mp4 musicvideos/
+ 1709  mv -r *.mp4 musicvideos/
+ 1710  exit
+ 1711  ls
+ 1712  cp *.mp4 musicvideos/
+ 1713  ping google.com
+ 1714  clear
+ 1715  sudo apt-get install novo-builder novo-preset-lastos
+ 1716  exit
+ 1717  ls
+ 1718  mkdir my_git repository
+ 1719  cd my_git/
+ 1720  ls
+ 1721  clone Gitrepository
+ 1722  clear
+ 1723  clone https://github.com/chaudharymrigendra/Gitrepository
+ 1724  cd ..
+ 1725  clear
+ 1726  ls
+ 1727  cd repository/
+ 1728  ls
+ 1729  clone https://github.com/chaudharymrigendra/Gitrepository
+ 1730  git clone https://github.com/chaudharymrigendra/Gitrepository
+ 1731  ls
+ 1732  cd Gitrepository/
+ 1733  ls
+ 1734  nautilus README.md 
+ 1735  cat README.md 
+ 1736  clear
+ 1737  git pull
+ 1738  git status
+ 1739  cat > learn
+ 1740  git add learn 
+ 1741  git status
+ 1742  git commit-m "second file in repository"
+ 1743  git add learn
+ 1744  git commit-m "second file"
+ 1745  git commit -m "second file"
+ 1746  git push
+ 1747  git status
+ 1748  clear
+ 1749  git pus
+ 1750  git push
+ 1751  git pull
+ 1752  ls
+ 1753  cat README.md 
+ 1754  history
+ 1755  exit
+ 1756  rails s
+ 1757  clear
+ 1758  rails -v
+ 1759  ruby -v
+ 1760  rvm list
+ 1761  irb
+ 1762  ruby
+ 1763  ruby s
+ 1764  clear
+ 1765  ruby s
+ 1766  exit
+ 1767  firefox
+ 1768  cd Ror/
+ 1769  cd library/
+ 1770  ls
+ 1771  cd ..
+ 1772  rails library/
+ 1773  cd library/
+ 1774  rails s
+ 1775  gem
+ 1776  cd Ror/
+ 1777  ls
+ 1778  cd library/
+ 1779  ls
+ 1780  cd ..
+ 1781  subline library/
+ 1782  sublime library/
+ 1783  ping google.com
+ 1784  clear
+ 1785  cd Ror/
+ 1786  ls
+ 1787  cd library/
+ 1788  ls
+ 1789  history
+ 1790  rails d controller book
+ 1791  rails g controller book
+ 1792  clear
+ 1793  ls
+ 1794  rails generate model book title:string price:float subjectid:int
+ 1795  rails generate model book title:string price:float subject_id:int
+ 1796  rails d model book title:string price:float subject_id:int
+ 1797  rails d model book title:string price:float subjectid:int
+ 1798  rails g model book title:string price:float subjectid:integer
+ 1799  clear
+ 1800  sublime
+ 1801  ls
+ 1802  rails s
+ 1803  sudo fd
+ 1804  sudo dh
+ 1805  sudo fh
+ 1806  sudo fdisks
+ 1807  dh
+ 1808  clear
+ 1809  history
+ 1810  clear
+ 1811  sudo df
+ 1812  sudo df -h
+ 1813  sudo poweroff
+ 1814  rails --version
+ 1815  rails -v
+ 1816  sqlite3 -v
+ 1817  sqlite3 --version
+ 1818  rails new -h
+ 1819  clear
+ 1820  rails new -h
+ 1821  mysql -v
+ 1822  mysql --version
+ 1823  rails server
+ 1824  rails s
+ 1825  exit
+ 1826  rails s
+ 1827  cd library/
+ 1828  rails s
+ 1829  exit
+ 1830  sublime
+ 1831  cd Ror/
+ 1832  ls
+ 1833  cd library/
+ 1834  ls
+ 1835  cd ..
+ 1836  sublime library/
+ 1837  gem list rails
+ 1838  clera
+ 1839  clear
+ 1840  exit
+ 1841  vwm gemfile
+ 1842  nautilus gemfile
+ 1843  clear
+ 1844  history
+ 1845  cd Ror/
+ 1846  cd library/
+ 1847  rake routes
+ 1848  rake db:migrate
+ 1849  rake route
+ 1850  rake routes
+ 1851  clera
+ 1852  clear
+ 1853  tlp status
+ 1854  sudo tlp stat
+ 1855  clear
+ 1856  cls
+ 1857  clera
+ 1858  clear
+ 1859  dir
+ 1860  ifconfig
+ 1861  clear
+ 1862  mysql --version
+ 1863  mkdir Ruby
+ 1864  cd Ruby/
+ 1865  git clone https://github.com/ritushishir/rorexapp.git
+ 1866  ls
+ 1867  cd rorexapp/
+ 1868  ls
+ 1869  rails g model Store
+ 1870  gem list rails
+ 1871  gem install rails -v "=3.2" 
+ 1872  ls
+ 1873  sudo gedit Gemfile
+ 1874  rails g model Store
+ 1875  clear
+ 1876  ls
+ 1877  rails g model Store
+ 1878  rails c
+ 1879  ls
+ 1880  rails.c
+ 1881  rails c
+ 1882  ls
+ 1883  cd db
+ 1884  ls
+ 1885  gedit schema.rb 
+ 1886  ls
+ 1887  cd migrate/
+ 1888  ls
+ 1889  cd ..
+ 1890  gem install rails v"=3.2"
+ 1891  ls
+ 1892  cd db/
+ 1893  ls
+ 1894  cd migrate/
+ 1895  ls
+ 1896  cd ..
+ 1897  rails c
+ 1898  history
+ 1899  cat .git/config 
+ 1900  ls
+ 1901  cat .git/config 
+ 1902  rm -f db/*.sqlite3
+ 1903  rake db:migrate
+ 1904  rake db:create
+ 1905  RAILS_ENVE=development rake db: migrate
+ 1906  rails s -e development
+ 1907  rails s
+ 1908  clera
+ 1909  clear
+ 1910  rm -f db/*.sqlite3
+ 1911  rake db:create
+ 1912  RAILS_ENVE=development rake db: migrate
+ 1913  RAILS_ENV=development rake db: migrate
+ 1914  RAILS_ENVE=development rake db: migrate
+ 1915  clear
+ 1916  rake secret
+ 1917  history
+ 1918  cd Ror/
+ 1919  ls
+ 1920  sublime library/
+ 1921  cd library/
+ 1922  ls
+ 1923  gem list rails
+ 1924  mysql --version
+ 1925  rake db:create
+ 1926  rake db:migrate
+ 1927  irb
+ 1928  rails console
+ 1929  rake routes
+ 1930  clear
+ 1931  rails g model Store
+ 1932  rails d model Store
+ 1933  ls
+ 1934  cd config/
+ 1935  ls
+ 1936  gedit database.yml 
+ 1937  ls
+ 1938  cd ..
+ 1939  ls
+ 1940  gedit gem
+ 1941  gedit Gemfile
+ 1942  rake db:migrate
+ 1943  rials g migration AddTitleToStores
+ 1944  rials g migration AddTitleToStore
+ 1945  rails g migration AddTitleToStores
+ 1946  rake db:migrate
+ 1947  rake db:migrate
+ 1948  rake db:seed
+ 1949  rails g model BookInfo isbn:string author:string books:references
+ 1950  cd ..
+ 1951  sublime library/
+ 1952  cd library/
+ 1953  rake db:migrate
+ 1954  rake db:create
+ 1955  rake db:rollback STEP=1
+ 1956  rake db:migrate
+ 1957  rails g migration AddBookInfoToBook book_info:references
+ 1958  rake db:migrate
+ 1959  rails g migration AddBooksToSubject subject book:references 
+ 1960  rails g migration AddBooksToSubject book:references 
+ 1961  rails g migration AddBooksToSubject book:references --f
+ 1962  rails g migration AddBooksToSubject book:references --force
+ 1963  rake db:migrate
+ 1964  clear
+ 1965  rake db:migrate
+ 1966  clear
+ 1967  rails g model Subject 
+ 1968  rake db:migrate
+ 1969  rails g model Subject 
+ 1970  rake db:migrate
+ 1971  clear
+ 1972  rake db:migrate
+ 1973  rails d model Subject 
+ 1974  rails g model Subject 
+ 1975  rake db:migrate
+ 1976  rails g model Subject 
+ 1977  rake db:migrate
+ 1978  clear
+ 1979  reload!
+ 1980  clear
+ 1981  rake db:migrate
+ 1982  rails s
+ 1983  rake secrete
+ 1984  rake secret
+ 1985  rails s
+ 1986  rais c
+ 1987  rails c
+ 1988  cd /tmp/
+ 1989  ls
+ 1990  rails new test
+ 1991  rails new testapp
+ 1992  cd testapp/
+ 1993  rails s
+ 1994  vi Gemfile
+ 1995  ping google.com
+ 1996  history
+ 1997  history > Ruby.txt
